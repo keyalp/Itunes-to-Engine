@@ -6,6 +6,7 @@ target/
 itm.db
 m.db
 m_new.db
+tests/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
