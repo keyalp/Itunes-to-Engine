@@ -19,7 +19,7 @@ public class Main {
         replicateItmDb();
         String engineOsUrlDB = "jdbc:sqlite:" + Constants.ENGINE_DB;
         String itunesUrlDB = "jdbc:sqlite:" + Constants.ITUNES_DB;
-
+//temp
         try {
             Connection engineOsDB = DriverManager.getConnection(engineOsUrlDB);
             Connection itunesDB = DriverManager.getConnection(itunesUrlDB);
